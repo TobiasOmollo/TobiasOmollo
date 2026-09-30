@@ -25,40 +25,64 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-**AI & Machine Learning**
+### Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,ruby,js,html,css&perline=8" alt="Languages: Python, C++, Java, Ruby, JavaScript, HTML, CSS" />
 </p>
 
-**Computer Vision**
+### AI & Machine Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TrOCR%20%2F%20Donut-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,numpy,pandas,kaggle&perline=8" alt="AI and Machine Learning: PyTorch, scikit-learn, NumPy, Pandas, Kaggle" />
 </p>
 
-**Web & Backend**
+### Computer Vision
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,huggingface&perline=8" alt="Computer Vision: OpenCV, Hugging Face" />
+</p>
+<p>Also: TrOCR, Donut</p>
+
+### Web Development & Backend
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,streamlit&perline=8" alt="Web Development and Backend: FastAPI, Flask, Streamlit" />
 </p>
 
-**Languages**
+### Databases & Data Management
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase&perline=8" alt="Databases and Data Management: PostgreSQL, SQLite, Supabase" />
+</p>
+
+### Cloud & Deployment
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,cloudflare,render,ubuntu&perline=8" alt="Cloud and Deployment: Docker, Cloudflare, Render, Ubuntu" />
+</p>
+
+### Tools & Collaboration
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Tools and Collaboration: Git, GitHub, VS Code" />
+</p>
+
+### Hobbies & Creative
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,photoshop&perline=8" alt="Hobbies and Creative: Canva, Photoshop" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TobiasOmollo&show_icons=true&count_private=true&theme=dark&bg_color=151515&hide_border=true" alt="Tobias Omollo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasOmollo&layout=compact&theme=dark&bg_color=151515&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=TobiasOmollo&theme=dark&background=151515&hide_border=true" alt="GitHub Streak" />
+</div>
