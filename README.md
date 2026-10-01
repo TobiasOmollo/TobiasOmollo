@@ -19,9 +19,7 @@
 - 🤖 I build intelligent systems using **Machine Learning & Computer Vision**
 - 🔍 Specialized in **document AI** — extracting data from handwritten forms
 - 📈 Passionate about applying **AI to African financial markets**
-- 🌐 I design fast backend APIs using **FastAPI, Flask & PostgreSQL**
-- 🌍 Long-term goal: build a **tech education hub in Nairobi**
-- 📚 Currently deep-diving into **generative vision models & cloud architecture**
+- 📚 Currently deep-diving into **System Engineering, generative  & cloud architecture**
 
 ---
 
