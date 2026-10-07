@@ -28,7 +28,7 @@
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,ruby,js,html,css&perline=8" alt="Languages: Python, C++, Java, Ruby, JavaScript, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,ruby,js,html,css&perline=8" alt="Languages: Python, C++, Java, Ruby" />
 </p>
 
 ### AI & Machine Learning
@@ -47,7 +47,7 @@
 ### Web Development & Backend
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,streamlit&perline=8" alt="Web Development and Backend: FastAPI, Flask, Streamlit" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,streamlit&perline=8" alt="Web Development and Backend: FastAPI, Flask, Streamlit, JavaScript, HTML, CSS" />
 </p>
 
 ### Databases & Data Management
