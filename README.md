@@ -16,9 +16,8 @@
 
 ## 🙋 About Me
 
-- 🤖 I build intelligent systems using **Machine Learning & Computer Vision**
 - 🔍 Specialized in **Database and API development**
-- 📈 Passionate about applying **AI to African financial markets**
+- 📈 Passionate about innovations in **Machine Learning & Computer Vision**
 - 📚 Currently deep-diving into **System Engineering & cloud architecture**
 
 ---
