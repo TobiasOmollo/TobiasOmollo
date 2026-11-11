@@ -18,7 +18,7 @@
 
 - 🔍 Specialized in **Database and API development**
 - 📈 Passionate about innovations in **Machine Learning & Computer Vision**
-- 📚 Currently deep-diving into **System Engineering & cloud architecture**
+- 📚 Currently deep-diving into **Systems Engineering & cloud architecture**
 
 ---
 
