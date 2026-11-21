@@ -52,13 +52,13 @@
 ### Databases & Data Management
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase&perline=8" alt="Databases and Data Management: PostgreSQL, SQLite, Supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,prisma,sqlalchemy&perline=8" alt="Databases and Data Management: PostgreSQL, SQLite, Supabase, Prisma, SQLAlchemy" />
 </p>
 
 ### Cloud & Deployment
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,cloudflare,render,ubuntu&perline=8" alt="Cloud and Deployment: Docker, Cloudflare, Render, Ubuntu" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,cloudflare,render,ubuntu,gcp,azure,digitalocean&perline=8" alt="Cloud and Deployment: Docker, Cloudflare, Render, Ubuntu, Google Cloud Console, Azure, Digital Ocean" />
 </p>
 
 ### Tools & Collaboration
